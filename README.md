@@ -1,9 +1,9 @@
 <h1 align="center">Shopping no celular</h1>
 <br>
 <div>
-   <img src="https://github.com/valeriasn910/ShoppingNoCelular/blob/master/Captura%20de%20tela%202024-02-23%20145120.png?raw=true" 
-   width="70%"/>
-  <img src="https://github.com/valeriasn910/ShoppingNoCelular/blob/master/Captura%20de%20tela%202024-02-23%20145756.png?raw=true"/>
+
+   <img src="https://github.com/valeriasn910/ShoppingNoCelular/blob/master/Post%20Instragram%20Retrato%20Apresenta%C3%A7%C3%A3o%20Clinica%20Est%C3%A9tica%20Creme.png?raw=true" alt="imagem-mobile" width="70%"/>
+  <img src="https://github.com/valeriasn910/ShoppingNoCelular/blob/master/Captura%20de%20tela%202024-02-23%20145756.png?raw=true" alt="imagem-desktop"/>
 </div>
 
 <div>
